@@ -23,7 +23,7 @@ def print_encouragement():
         "Persistence is key!"
     ]
     print(random.choice(msgs) + "\n")
-print_flag()
+
 def main():
     print(r'''
         ==========================
